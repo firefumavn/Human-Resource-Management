@@ -1,0 +1,3 @@
+$(function(){
+	handleSelect2();
+});
